@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deepanshu-cell
-- 👀 I’m interested in coding in c++
+- 👀 I’m currently learning Data structure and algorithms in java
 - 🌱 I’m currently btech student in MAIT
-- 💞️ I’m looking to collaborate on ... project's on c++
+- 💞️ I’m looking to collaborate on ... project's on java
 - 📫 How to reach me ... deepanshukhorwal779@gmail.com
 
 <!---
